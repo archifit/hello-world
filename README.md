@@ -1,2 +1,2 @@
 # hello-world
-A first demo repository
+At the end of the day this is only a test
